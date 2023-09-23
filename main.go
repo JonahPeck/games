@@ -7,3 +7,5 @@ import (
 func main() {
 	fmt.Print("hello")
 }
+
+// trying to figure out go
