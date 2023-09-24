@@ -9,3 +9,4 @@ func main() {
 }
 
 // trying to figure out go
+//gonna try some more stuff
