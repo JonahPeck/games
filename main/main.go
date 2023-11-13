@@ -5,8 +5,8 @@ import (
 )
 
 func main() {
-	input("What is the time of day?")
-	fmt.Scanf()
+	fmt.Println("Currency Converter")
+	fmt.Println(`Please select your first currency: n/`)
 }
 
 // go practice
