@@ -9,4 +9,4 @@ func main() {
 	fmt.Println(`Please select your first currency: n/`)
 }
 
-// go practice
+// go implementation with a switch and input scanning
