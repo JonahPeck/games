@@ -10,3 +10,4 @@ func main() {
 }
 
 // go implementation with a switch and input scanning
+//use array, slice and map
